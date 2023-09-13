@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    background-color: rgb(214, 214, 25);
+    height: 600px;
+    width: 600px;
+    border-style: dotted;
+}
+
+.nav {
+    padding: 10px;
+    padding-top: 40px;
+}
+
+.nav a{
+    background-color: white;
+    color: blue;
+    font-size: larger;
+    text-decoration: none;
+    display: block;
+    width: 150px;
+    padding: 7px;
+    margin-bottom: 10px;
+    border-right: 35px solid black;
+
+}
+
+h1,
+p {
+    color: rgb(117, 23, 117);
+
+}
+
+h1 {
+    font-size: 35px;
+    padding: 0px 20px;
+
+}
+
+p {
+    font-size: larger;
+    color: rgb(117, 23, 117);
+    padding-left: 20px;
+
+}
